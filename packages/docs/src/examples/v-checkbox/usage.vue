@@ -5,7 +5,7 @@
   >
     <v-checkbox
       v-model="checkbox"
-      :label="`Checkbox 1: ${checkbox.toString()}`"
+      :label="`AKTIV`"
     ></v-checkbox>
   </v-container>
 </template>
